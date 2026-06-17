@@ -60,7 +60,12 @@ pip install -r requirements.txt
 ## Скачивание данных и модели
 
 [Датасет](https://drive.google.com/drive/folders/15LuHXf_1oOW3jLe3x-td9tv5DT_xKW_-?usp=sharing) \
-[Веса модели](https://drive.google.com/drive/folders/1r6S1zXm27pXhLULYleVDoE41W7VfYymj?usp=sharing)
+[Веса модели](https://drive.google.com/drive/folders/1r6S1zXm27pXhLULYleVDoE41W7VfYymj?usp=sharing) 
+
+Источники: \
+https://zenodo.org/records/18094235?preview_file=Training+Dataset.zip \
+https://zenodo.org/records/18094235?preview_file=Training+Dataset.zip 
+
 
 Папки необходимо добавить в структуру проекта в соответствии с описанием выше.
 
