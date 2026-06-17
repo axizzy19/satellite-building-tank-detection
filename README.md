@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 Источники: \
 https://zenodo.org/records/18094235?preview_file=Training+Dataset.zip \
-https://zenodo.org/records/18094235?preview_file=Training+Dataset.zip 
+https://www.kaggle.com/datasets/towardsentropy/oil-storage-tanks 
 
 
 Папки необходимо добавить в структуру проекта в соответствии с описанием выше.
